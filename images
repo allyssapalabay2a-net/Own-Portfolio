@@ -1,0 +1,11 @@
+<div class="profile-container">
+      <img src="images/project1.jpg" alt="images/Profile1.jpg" class="profile-img">
+</div>
+
+<div class="project-image">
+     <img src="images/Reporting.jpg" alt="Project Name">
+</div>
+
+<div class="project-image">
+            <img src="images/Research paper.jpg" alt="Project Name">
+</div>
